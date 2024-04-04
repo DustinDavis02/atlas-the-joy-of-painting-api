@@ -14,9 +14,9 @@ This project aims to provide an accessible database and API for fans of "The Joy
 
 ### Prerequisites
 
-- SQL database (MySQL, PostgreSQL, etc.)
+- SQL database (MySQL)
 - Python 3.x
-- Relevant Python packages (pandas, sqlalchemy)
+- Relevant Python packages (pandas, sqlalchemy, python-dotenv)
 
 ### Installation
 
